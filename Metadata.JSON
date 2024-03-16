@@ -1,0 +1,14 @@
+{
+  "title": "Stellar Luminary: Galactic Dreams",
+  "description": "Embark on a journey through the cosmos with 'Galactic Dreams' from the Stellar Luminary Collection. Each artwork is a testament to the beauty and wonder of the universe, capturing celestial phenomena in mesmerizing detail.",
+  "creator": "Senshui",
+  "edition": "Limited Edition",
+  "attributes": ["Celestial", "Cosmic", "Radiant", "Ethereal", "Mesmerizing"],
+  "file_format": "PNG",
+  "token_standard": "ERC-721",
+  "blockchain": "Ethereum",
+  "release_date": "2024-03-16",
+  "supply": 100,
+  "royalties": 5,
+  "ownership": "Ownership grants exclusive access to the Stellar Luminary community and benefits."
+}
